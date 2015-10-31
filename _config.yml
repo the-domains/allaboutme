@@ -1,6 +1,6 @@
 name: Allaboutme
 favicon: null
-layout_spectrum: 0.3102310604881495
+layout_spectrum: 0.29499
 typography_spectrum: 0.21482479479163885
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#858585'
-    - '#dadada'
-    - '#535353'
-    - '#101010'
-    - '#fdfdfd'
+    - '#dbe3e5'
+    - '#1d4072'
+    - '#7093c9'
+    - '#061903'
+    - '#986b50'
   brandStrength: 0.5625
   lightness: 0.23968223948031664
   saturation: 0.6152222268283367
